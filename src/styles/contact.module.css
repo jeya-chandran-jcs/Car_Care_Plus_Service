@@ -1,0 +1,13 @@
+/* contact.module.css */
+
+.contactContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 70vh; /* Adjust height to ensure footer is pushed down */
+  }
+  
+  .contactCard {
+    padding: 2rem;
+  }
+  
